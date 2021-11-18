@@ -9,7 +9,7 @@
 
 - https://elated-hawking-50d52e.netlify.app/
 
-- ![gif](https://github.com/yhekim/Bootstrap_Team_Members_Page/blob/main/Bootstrap_team_members.gif)
+- ![gif](https://github.com/yhekim/Bootstrap-Clarusway-CW-School/blob/main/Bootstrap_School_projects.gif)
 
 
 ## Problem Statement
