@@ -1,13 +1,13 @@
-# Project-006-2 : Clarusway-Bootstrap-CW-School (HC-006-1)
+# Project-006-2 : Clarusway-Bootstrap-CW-School (HC-006-2)
 
 ## Description
 - Project aims to create your development school web projects.
 
 - Technologies Used Bootstrap and JS with HTML5.
 
-- https://vigilant-boyd-a665cc.netlify.app/
+- https://yhekim.github.io/Bootstrap-Clarusway-CW-School/
 
-- https://yhekim.github.io/Bootstrap_Team_Members_Page/
+- https://elated-hawking-50d52e.netlify.app/
 
 - ![gif](https://github.com/yhekim/Bootstrap_Team_Members_Page/blob/main/Bootstrap_team_members.gif)
 
